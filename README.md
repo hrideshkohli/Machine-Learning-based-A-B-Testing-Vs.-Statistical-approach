@@ -12,6 +12,8 @@ This is why A/B testing is a huge benefit. A/B Testing enables us to determine w
 # About the Project
 A major issue with traditional, statistical-inference approaches to A/B Testing is that it only compares 2 variables - an experiment/control to an outcome. The problem is that customer behavior is vastly more complex than this. Customers take different paths, spend different amounts of time on the site, come from different backgrounds (age, gender, interests), and more. This is where Machine Learning excels - generating insights from complex systems.
 
+In this project, I will compare outputs of both statistical and Machine Learning based A/B testing approach.
+
 # Steps involved in this project
 
 ## 1.0 What is A/B Testing?
@@ -43,3 +45,33 @@ Unlike statistical inference, Machine Learning algorithms enable us to model com
 'An attractive benefit to Machine Learning is that we can combine multiple approaches to gain insights.'
 
 Rather than discuss in abstract, we can use an example from Udacity’s A/B Testing Course, but apply the applied Machine Learning techniques from our Business Analysis with R Course to gain better insights into the inner-workings of the system rather than simply comparing an experiment and control group in an A/B Test.
+
+## 3.0 A/B Test Using Machine Learning: Step-By-Step Walkthrough
+
+# Experiment Name: “Free Trial” Screener
+
+---
+* * *
+
+In the experiment, "Audacity" tested a change where if the student clicked “start free trial”, they were asked how much time they had available to devote to the course.
+
+If the student indicated 5 or more hours per week, they would be taken through the checkout process as usual. If they indicated fewer than 5 hours per week, a message would appear indicating that Udacity courses usually require a greater time commitment for successful completion.
+
+Why Implement the Form?
+
+The goal with this popup was that this might set clearer expectations for students upfront, thus reducing the number of frustrated students who left the free trial because they didn’t have enough time.
+
+However, what Audacity wants to avoid is “significantly” reducing the number of students that continue past the free trial and eventually complete the course
+
+## Project Goal
+''' In this analysis, we will investigate which features are contributing enrollments and determine if there is an impact on enrollments from the new “Setting Expectations” form.
+
+The users that experience the form will be denoted as “Experiment = 1” The control group (users that don’t see the form) will be denoted as “Experiment = 0”.'''
+
+# 3.1 Get the Data
+
+The data set for this A/B Test can be retrieved from Kaggle Data Sets.
+
+Control Data(https://www.kaggle.com/tammyrotem/control-data)
+
+Experiment Data(https://www.kaggle.com/tammyrotem/experiment-data)
