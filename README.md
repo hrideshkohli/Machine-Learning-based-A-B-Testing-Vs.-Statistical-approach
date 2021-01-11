@@ -22,7 +22,8 @@ A/B Testing is a tried-and-true method commonly performed using a traditional st
 
 ``` Treatment Group (Group A) - This group is exposed to the new web page, popup form, etc.
 
-Control Group (Group B) - This group experiences no change from the current setup.```
+Control Group (Group B) - This group experiences no change from the current setup. 
+```
 
 The goal of the A/B is then to compare the conversion rates of the two groups using statistical inference.
 
@@ -73,4 +74,5 @@ The users that experience the form will be denoted as “Experiment = 1” The c
 
 Control Data(https://www.kaggle.com/tammyrotem/control-data)
 
-Experiment Data(https://www.kaggle.com/tammyrotem/experiment-data) ```
+Experiment Data(https://www.kaggle.com/tammyrotem/experiment-data) 
+```
