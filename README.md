@@ -20,9 +20,9 @@ In this project, I will compare outputs of both statistical and Machine Learning
 
 A/B Testing is a tried-and-true method commonly performed using a traditional statistical inference approach grounded in a hypothesis test (e.g. t-test, z-score, chi-squared test). In plain English, 2 tests are run in parallel:
 
-'Treatment Group (Group A) - This group is exposed to the new web page, popup form, etc.
+``` Treatment Group (Group A) - This group is exposed to the new web page, popup form, etc.
 
-Control Group (Group B) - This group experiences no change from the current setup.'
+Control Group (Group B) - This group experiences no change from the current setup.```
 
 The goal of the A/B is then to compare the conversion rates of the two groups using statistical inference.
 
