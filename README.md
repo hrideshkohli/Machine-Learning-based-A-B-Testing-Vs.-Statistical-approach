@@ -69,8 +69,8 @@ The users that experience the form will be denoted as “Experiment = 1” The c
 
 # 3.1 Get the Data
 
-The data set for this A/B Test can be retrieved from Kaggle Data Sets.
+``` The data set for this A/B Test can be retrieved from Kaggle Data Sets.
 
 Control Data(https://www.kaggle.com/tammyrotem/control-data)
 
-Experiment Data(https://www.kaggle.com/tammyrotem/experiment-data)
+Experiment Data(https://www.kaggle.com/tammyrotem/experiment-data) ```
