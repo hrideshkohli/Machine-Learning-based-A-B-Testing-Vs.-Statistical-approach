@@ -1,6 +1,6 @@
 # Machine-Learning-based-A-B-Testing-Vs.-Statistical-approach
 
-[! alt text] (https://github.com/hrideshkohli/Machine-Learning-based-A-B-Testing-Vs.-Statistical-approach/blob/main/AB-Testing.png)
+![alt text] (https://github.com/hrideshkohli/Machine-Learning-based-A-B-Testing-Vs.-Statistical-approach/blob/main/AB-Testing.png)
 
 ## Few popular hashtags -
 **#ABTesting #Machine Learninig #Linear Regression
