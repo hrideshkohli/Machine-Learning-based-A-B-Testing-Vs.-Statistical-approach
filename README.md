@@ -51,7 +51,6 @@ Rather than discuss in abstract, we can use an example from Udacity’s A/B Test
 # Experiment Name: “Free Trial” Screener
 
 ---
-* * *
 
 In the experiment, "Audacity" tested a change where if the student clicked “start free trial”, they were asked how much time they had available to devote to the course.
 
@@ -64,9 +63,9 @@ The goal with this popup was that this might set clearer expectations for studen
 However, what Audacity wants to avoid is “significantly” reducing the number of students that continue past the free trial and eventually complete the course
 
 ## Project Goal
-''' In this analysis, we will investigate which features are contributing enrollments and determine if there is an impact on enrollments from the new “Setting Expectations” form.
+` In this analysis, we will investigate which features are contributing enrollments and determine if there is an impact on enrollments from the new “Setting Expectations” form.
 
-The users that experience the form will be denoted as “Experiment = 1” The control group (users that don’t see the form) will be denoted as “Experiment = 0”.'''
+The users that experience the form will be denoted as “Experiment = 1” The control group (users that don’t see the form) will be denoted as “Experiment = 0”.`
 
 # 3.1 Get the Data
 
